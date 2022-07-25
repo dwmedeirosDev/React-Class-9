@@ -1,5 +1,5 @@
 // styled-component
-// Instalar o style-component no terminal => npm install styled-component
+// Instalar o style-component no terminal => npm install styled-components
 // Importar o style-component => import styled from 'styled-components' 
 
 import React, { Component } from 'react'
